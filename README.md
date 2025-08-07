@@ -1,2 +1,2 @@
 # MCPServerJava
-MCP Server using SSE, Streamable HTTP protocol
+MCP Server using SSE transport protocol.
